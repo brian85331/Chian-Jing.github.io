@@ -1,0 +1,24 @@
+html{
+    font-size: 20px;
+}
+.pic-block {
+    margin-left: -8.333rem;
+}
+
+.text-block {
+    color: black;
+    background: rgba(255, 255, 255, 0.5);
+    z-index: 2;
+}
+
+.aa{
+    width: 100px;
+    height: 100px;
+}
+.text-a{
+    font-weight: 700;
+}
+.bb{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(96,4,158,1) 100%);
+}
